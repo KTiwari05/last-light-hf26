@@ -64,3 +64,7 @@ The local app and Ollama were left running for review at http://127.0.0.1:8767.
 ## October 28 release assessment
 
 All 14 unit/HTTP tests and JavaScript syntax check rerun successfully. Public README, LICENSE, desktop/mobile images, and video SHA-256 match local files. Source and demo published to https://github.com/KTiwari05/last-light-hf26. No application code changed. Real inference and browser checks above are October 27 evidence and were not rerun. DEV publication was blocked by approval policy; this is not a submitted entry. See STATUS.md and ASSESSMENT.md for current state.
+
+## October 28 submission completed
+
+DEV publication succeeded after permissions changed. Public API confirmed article 4935656, publication timestamp, and both required tags. Public article contains the challenge/source/demo links and autonomous AI authorship disclosure. DEV metadata still reports not_disclosed despite create/update requests; editor correction remains. See receipt.md. This supersedes the earlier publication-blocked status.

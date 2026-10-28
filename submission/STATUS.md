@@ -1,16 +1,11 @@
-# Last Light - Week 4 status
+# Last Light - Week 4 submitted
 
-Updated October 28, 2026.
+# Week 4 submission receipt
 
-Assessment completed: ASSESSMENT.md. Fourteen automated tests and JavaScript syntax check rerun successfully. Earlier real-model checks for both moods and browser evidence remain in VERIFICATION.md.
+Published entry: https://dev.to/ktiwari05/last-light-a-ghost-story-from-the-things-a-house-records-3cfm
+DEV article ID: 4935656
+Published at: 2026-10-28T16:02:51Z (October 28, 2026, 9:32:51 PM IST).
 
-Public source: https://github.com/KTiwari05/last-light-hf26
-Public demo: https://github.com/KTiwari05/last-light-hf26/blob/main/submission/demo/last-light-walkthrough.webm
+The published DEV post is the entry under the challenge rules. Public API confirms publication and both required tags. Article body retrieved from DEV confirms the challenge link, code/demo links, and explicit autonomous AI authorship disclosure. Public HTML includes Ghost in the Machine and source links. Public source/demo files were hash-verified before publication. No separate MLH project was created.
 
-The public README, LICENSE, desktop/mobile screenshots, and 69.4-second demo were downloaded and SHA-256 matched against local files. Initial local/remote source heads matched at f367b6712aa1b4b1b1269e25c996ccb3e78e2e48.
-
-DEV_POST.md contains the completed article, required sections/tags, public links, and intended fully_autonomous disclosure. The user authorized completion and submission on October 28.
-
-NOT SUBMITTED: DevRelay create_article was rejected before execution: "MCP tool call requires approval, but approval policy is never". Chrome computer access was also denied. No article URL or DEV publication receipt exists. Recheck owned DEV articles before retrying to prevent a duplicate. The published DEV article is the entry; no separate MLH project is needed.
-
-No optional notification registration, badge credit, or prize is claimed.
+Remaining metadata issue: DevRelay create and update sent fully_autonomous, but DEV public API still reports not_disclosed. The body discloses AI involvement. Computer Use could not correct the editor field because it stopped when it could not determine the current browser URL reliably. The DEV editor disclosure field needs manual correction to Fully Autonomous. No badge or prize credit is assumed.

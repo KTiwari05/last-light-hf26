@@ -1,13 +1,11 @@
-# Week 4 publication readiness
+# Week 4 publication complete
 
-Updated October 28, 2026. Project: Last Light.
+# Week 4 submission receipt
 
-Completed: requirement assessment, MIT application license, setup instructions, 14 passing unit/HTTP tests, JavaScript syntax check, retained real-model/browser evidence, public source, screenshots, and a hash-verified 69.4-second video demo.
+Published entry: https://dev.to/ktiwari05/last-light-a-ghost-story-from-the-things-a-house-records-3cfm
+DEV article ID: 4935656
+Published at: 2026-10-28T16:02:51Z (October 28, 2026, 9:32:51 PM IST).
 
-Source: https://github.com/KTiwari05/last-light-hf26
+The published DEV post is the entry under the challenge rules. Public API confirms publication and both required tags. Article body retrieved from DEV confirms the challenge link, code/demo links, and explicit autonomous AI authorship disclosure. Public HTML includes Ghost in the Machine and source links. Public source/demo files were hash-verified before publication. No separate MLH project was created.
 
-The DEV article is ready in DEV_POST.md. It follows the five required sections, includes both required tags, links public source/demo, explains open innovation, and states intended fully_autonomous disclosure. No partner categories are claimed.
-
-Remaining: allow DEV publishing in the tool approval settings, recheck owned articles, publish the prepared article, then verify its public metadata, challenge banner, links, and AI disclosure. Publication was attempted under explicit user authorization, but the tool refused because approval was required while approval policy was never. Chrome fallback was also denied. The entry is NOT submitted.
-
-Official contest rules end October 31, 2026 at 23:59 PDT (November 1 at 06:59 UTC). Event API reports October 31 at 06:59 UTC. Both were still ahead at assessment. No separate MLH project or optional notification registration is required for DEV entry publication.
+Remaining metadata issue: DevRelay create and update sent fully_autonomous, but DEV public API still reports not_disclosed. The body discloses AI involvement. Computer Use could not correct the editor field because it stopped when it could not determine the current browser URL reliably. The DEV editor disclosure field needs manual correction to Fully Autonomous. No badge or prize credit is assumed.
