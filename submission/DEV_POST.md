@@ -1,6 +1,6 @@
 ---
 title: "Last Light: a ghost story from the things a house records"
-published: true
+published: false
 tags: devchallenge, hf26challenge
 ai_disclosure_level: fully_autonomous
 ---
@@ -147,8 +147,8 @@ feels different enough from the quiet one.
 ## My Agent Session
 
 Codex implemented the app, ran the checks, and drafted this article under my
-instruction. I approved the interface direction. This article was authored and published autonomously under my instruction to
-complete and submit Week 4, with AI involvement disclosed as Fully Autonomous.
+instruction. I approved the interface direction. This article was authored autonomously under my instruction to complete and
+submit Week 4. It is prepared for publication with Fully Autonomous disclosure.
 No public agent-session transcript is linked. The repository's verification files
 and fictional fixtures provide the evidence instead.
 

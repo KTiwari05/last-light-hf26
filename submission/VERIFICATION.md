@@ -60,3 +60,7 @@ the real sample output are retained under `submission/demo/`.
   one day. See `BRIEF.md`; target the earlier timestamp for finishing.
 
 The local app and Ollama were left running for review at http://127.0.0.1:8767.
+
+## October 28 release assessment
+
+All 14 unit/HTTP tests and JavaScript syntax check rerun successfully. Public README, LICENSE, desktop/mobile images, and video SHA-256 match local files. Source and demo published to https://github.com/KTiwari05/last-light-hf26. No application code changed. Real inference and browser checks above are October 27 evidence and were not rerun. DEV publication was blocked by approval policy; this is not a submitted entry. See STATUS.md and ASSESSMENT.md for current state.

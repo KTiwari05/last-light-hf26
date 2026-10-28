@@ -1,34 +1,16 @@
-# Last Light — Week 4
+# Last Light - Week 4 status
 
-October 27, 2026: local MVP implemented and verified.
+Updated October 28, 2026.
 
-Theme: Ghost in the Machine. Latest verified challenge:
-https://dev.to/challenges/hacktoberfest-week4-2026-10-26
+Assessment completed: ASSESSMENT.md. Fourteen automated tests and JavaScript syntax check rerun successfully. Earlier real-model checks for both moods and browser evidence remain in VERIFICATION.md.
 
-The user approved the Superdesign draft in this session with:
-"Implement the ready UI draft".
+Public source: https://github.com/KTiwari05/last-light-hf26
+Public demo: https://github.com/KTiwari05/last-light-hf26/blob/main/submission/demo/last-light-walkthrough.webm
 
-Completed:
+The public README, LICENSE, desktop/mobile screenshots, and 69.4-second demo were downloaded and SHA-256 matched against local files. Initial local/remote source heads matched at f367b6712aa1b4b1b1269e25c996ccb3e78e2e48.
 
-- Fresh local project and Git repository.
-- Python standard-library server, local Ollama Qwen3 4B story generation.
-- Approved night-log/story interface, two mood choices, three scenes, source
-  navigation, input limits, stale-output clearing, and text download.
-- MIT license, run instructions, challenge brief, real output, desktop/mobile
-  screenshots, and verification record.
-- Fourteen automated tests, JavaScript syntax check, two real model runs, and
-  browser tests. See `VERIFICATION.md` for exact evidence and limits.
-- Follow-up real Eerie suspense generation and verified text export.
-- 69.4-second silent browser walkthrough, captured from the real Eerie suspense
-  result. See `demo/last-light-walkthrough.webm`.
-- Local DEV submission draft in `DEV_POST.md`, using the required sections and
-  tags. Public source and demo links are clearly pending.
+DEV_POST.md contains the completed article, required sections/tags, public links, and intended fully_autonomous disclosure. The user authorized completion and submission on October 28.
 
-Pending:
+NOT SUBMITTED: DevRelay create_article was rejected before execution: "MCP tool call requires approval, but approval policy is never". Chrome computer access was also denied. No article URL or DEV publication receipt exists. Recheck owned DEV articles before retrying to prevent a duplicate. The published DEV article is the entry; no separate MLH project is needed.
 
-- Confirm the specific Week 4 event before registration.
-- Publish public source and fill the draft's verified public source/demo URLs.
-- Publish/submit only when the user authorizes that step.
-
-No external registration, public repository, publication, or submission was made.
-The app is available locally at http://127.0.0.1:8767 for review.
+No optional notification registration, badge credit, or prize is claimed.

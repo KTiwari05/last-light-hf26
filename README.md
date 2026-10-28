@@ -89,8 +89,10 @@ Node is optional and only needed for the JavaScript syntax check. Unit/HTTP test
 mock model calls; they do not prove real inference quality. The separately saved
 `submission/real-generation.json` records a real run on fictional input.
 
-See [the submission draft](submission/DEV_POST.md),
+See [the prepared submission article](submission/DEV_POST.md),
 [verification record](submission/VERIFICATION.md), and
 [challenge brief](submission/BRIEF.md) for the work, evidence, and conflicting
-deadline metadata. Registration, public source, demo publication, and DEV submission
-remain pending. No prize category or award is claimed.
+deadline metadata. Public source and the video demo are published. The requirement assessment is
+in [ASSESSMENT.md](submission/ASSESSMENT.md). DEV publication was blocked by tool
+approval policy and remains pending; the entry is not submitted. See
+[STATUS.md](submission/STATUS.md). No prize category or award is claimed.
