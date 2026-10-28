@@ -94,5 +94,4 @@ See [the prepared submission article](submission/DEV_POST.md),
 [challenge brief](submission/BRIEF.md) for the work, evidence, and conflicting
 deadline metadata. Public source and the video demo are published. The requirement assessment is
 in [ASSESSMENT.md](submission/ASSESSMENT.md). [Week 4 submission](https://dev.to/ktiwari05/last-light-a-ghost-story-from-the-things-a-house-records-3cfm) is published. See
-[receipt.md](submission/receipt.md) for verification and the remaining DEV disclosure
-metadata issue. No prize category or award is claimed.
+[receipt.md](submission/receipt.md) for publication and AI-disclosure verification. No prize category or award is claimed.

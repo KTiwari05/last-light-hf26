@@ -68,3 +68,7 @@ All 14 unit/HTTP tests and JavaScript syntax check rerun successfully. Public RE
 ## October 28 submission completed
 
 DEV publication succeeded after permissions changed. Public API confirmed article 4935656, publication timestamp, and both required tags. Public article contains the challenge/source/demo links and autonomous AI authorship disclosure. DEV metadata still reports not_disclosed despite create/update requests; editor correction remains. See receipt.md. This supersedes the earlier publication-blocked status.
+
+## Final disclosure verification
+
+Public DEV API now confirms fully_autonomous, edited_at 2026-10-28T16:05:28Z, published article 4935656, and both required tags. The earlier disclosure issue is resolved.
