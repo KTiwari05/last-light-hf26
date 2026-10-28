@@ -1,0 +1,26 @@
+The Clockwork Echo
+
+FICTION — inspired by the supplied event log.
+References show inspiration, not factual evidence.
+
+Scene 1
+The hallway light flickered out at 23:41, leaving only the cold kitchen window. A shadow moved in the kitchen at 00:06, but the temperature dropped to 17°C by 00:07.
+Inspired by: E1, E2, E3
+
+Scene 2
+The radio crackled to life at 00:09, playing a static-laced melody that seemed to echo through the walls. By 00:12, the front door sensor marked it closed, yet the hallway light flared back on at 00:13.
+Inspired by: E4, E5, E6
+
+Scene 3
+The last whisper was the hallway light's return. It had been the clockwork ghost of the house itself, counting down to the next moment with every switch.
+Inspired by: E6
+
+ORIGINAL EVENT LOG
+E1: 23:41 — Hallway light switched off.
+E2: 00:06 — Motion detected in the empty kitchen.
+E3: 00:07 — Kitchen temperature dropped from 21 to 17 degrees.
+E4: 00:09 — Radio switched on with no station selected.
+E5: 00:12 — Front door sensor reported closed.
+E6: 00:13 — Hallway light switched on.
+
+Generated locally with qwen3:4b using Last Light.

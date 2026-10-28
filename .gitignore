@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.codebase-memory/
+.superdesign/tmp/
+output/
+.playwright-cli/

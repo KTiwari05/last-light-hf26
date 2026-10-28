@@ -1,0 +1,17 @@
+{
+  "projectId": "0b9a3978-9a6f-413a-9adc-ece9332d69b2",
+  "draftId": "17e1844c-617e-4a0a-aec6-93bddcb51496",
+  "version": "v1",
+  "canvas": "https://superdesign.dev/teams/af9cb6db-6813-4292-9ebf-56367d5e6fc6/projects/0b9a3978-9a6f-413a-9adc-ece9332d69b2",
+  "preview": "https://p.superdesign.dev/draft/17e1844c-617e-4a0a-aec6-93bddcb51496",
+  "approvedByUser": "Implement the ready UI draft",
+  "approvedOn": "2026-10-27",
+  "source": "last-light-draft.html",
+  "implementation": ["static/index.html", "static/style.css", "static/app.js"],
+  "changesFromDraft": [
+    "Replaced external Tailwind/Iconify scripts with local CSS and text controls",
+    "Removed invented active status, Ollama version and 2024 copyright",
+    "Added true empty, loading, error and generated states",
+    "Added source navigation, downloads and responsive layout"
+  ]
+}

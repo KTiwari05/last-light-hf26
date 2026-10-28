@@ -1,0 +1,57 @@
+{
+  "story": {
+    "title": "The Clockwork Echo",
+    "scenes": [
+      {
+        "text": "The hallway light flickered out at 23:41, leaving only the cold kitchen window. A shadow moved in the kitchen at 00:06, but the temperature dropped to 17°C by 00:07.",
+        "source_ids": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "text": "The radio crackled to life at 00:09, playing a static-laced melody that seemed to echo through the walls. By 00:12, the front door sensor marked it closed, yet the hallway light flared back on at 00:13.",
+        "source_ids": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "The last whisper was the hallway light's return. It had been the clockwork ghost of the house itself, counting down to the next moment with every switch.",
+        "source_ids": [
+          6
+        ]
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": 1,
+      "text": "23:41 — Hallway light switched off."
+    },
+    {
+      "id": 2,
+      "text": "00:06 — Motion detected in the empty kitchen."
+    },
+    {
+      "id": 3,
+      "text": "00:07 — Kitchen temperature dropped from 21 to 17 degrees."
+    },
+    {
+      "id": 4,
+      "text": "00:09 — Radio switched on with no station selected."
+    },
+    {
+      "id": 5,
+      "text": "00:12 — Front door sensor reported closed."
+    },
+    {
+      "id": 6,
+      "text": "00:13 — Hallway light switched on."
+    }
+  ],
+  "model": "qwen3:4b",
+  "fiction": true
+}

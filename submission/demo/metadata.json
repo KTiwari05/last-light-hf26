@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-27",
+  "video": "last-light-walkthrough.webm",
+  "duration_seconds": 69.4,
+  "width": 1440,
+  "height": 1000,
+  "fps": 15,
+  "codec": "VP8",
+  "silent": true,
+  "edited": false,
+  "generation_wait_omitted": true,
+  "source": "real-eerie-generation.json",
+  "size_bytes": 2783711,
+  "sha256": "9a6c93a28de7c1bd1172cb76bbeb117ce3fc4daad8bd6c8141d7302b798cd4e2",
+  "frame_checks_seconds": [
+    2,
+    25,
+    67.4
+  ],
+  "export_matches_response": true
+}

@@ -1,0 +1,57 @@
+{
+  "story": {
+    "title": "The Whispering Hallway",
+    "scenes": [
+      {
+        "text": "The hallway light flickered out at 23:41, casting the house in deep shadow. A cold breath brushed against the doorframe as the kitchen’s motion sensor twitched at 00:06.",
+        "source_ids": [
+          1,
+          2
+        ]
+      },
+      {
+        "text": "The kitchen grew unnaturally cold by 00:07, the temperature plummets to 17°C. The radio crackled to life at 00:09, playing a melody that seemed to hum from the walls.",
+        "source_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "text": "At 00:13, the hallway light flared back on, revealing the kitchen door ajar. The radio’s hum dissolved into silence, leaving only the faint echo of a whisper: 'You’re home.'",
+        "source_ids": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": 1,
+      "text": "23:41 — Hallway light switched off."
+    },
+    {
+      "id": 2,
+      "text": "00:06 — Motion detected in the empty kitchen."
+    },
+    {
+      "id": 3,
+      "text": "00:07 — Kitchen temperature dropped from 21 to 17 degrees."
+    },
+    {
+      "id": 4,
+      "text": "00:09 — Radio switched on with no station selected."
+    },
+    {
+      "id": 5,
+      "text": "00:12 — Front door sensor reported closed."
+    },
+    {
+      "id": 6,
+      "text": "00:13 — Hallway light switched on."
+    }
+  ],
+  "model": "qwen3:4b",
+  "fiction": true,
+  "elapsed_seconds": 134.67
+}

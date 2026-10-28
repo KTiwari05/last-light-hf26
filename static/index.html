@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Last Light — A ghost story from your night log</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="/">Last Light</a>
+    <span class="badge">Local story desk</span>
+    <span class="model">Ollama · Qwen3 4B</span>
+  </header>
+  <main>
+    <section class="lead">
+      <h1>Every quiet house<br>has a story.</h1>
+      <p>Turn the small events of a night into a ghost story.<br class="desktop-break"> Let the ordinary become a little strange.</p>
+    </section>
+    <div class="desk">
+      <aside class="log-panel">
+        <form id="story-form">
+          <div class="panel-heading">
+            <label for="log-editor">The night log</label>
+            <span class="utility" id="event-count">0 events</span>
+          </div>
+          <p class="help" id="log-help">One event per line. Use 3–24 entries, up to 240 characters each.</p>
+          <textarea id="log-editor" rows="10" maxlength="6000" spellcheck="false" required aria-describedby="log-help sample-note" placeholder="23:41 — Hallway light switched off.&#10;00:06 — Motion in the empty kitchen.&#10;00:13 — The light switched on again."></textarea>
+          <div class="sample-row">
+            <button type="button" class="secondary" id="btn-load-sample">Load sample</button>
+            <span id="sample-note">The bundled sample is fictional.</span>
+          </div>
+          <fieldset>
+            <legend>The mood</legend>
+            <label><input type="radio" name="mood" value="quiet" checked> Quiet unease</label>
+            <label><input type="radio" name="mood" value="eerie"> Eerie suspense</label>
+          </fieldset>
+          <button class="primary" type="submit" id="btn-write-story" disabled>Write a ghost story</button>
+          <p class="privacy">Your log goes only to Ollama on this machine.<br>Last Light does not save it.</p>
+          <p id="status" role="status" aria-live="polite">Connecting to the local desk…</p>
+        </form>
+        <section class="source-panel" id="source-panel" hidden aria-labelledby="source-heading">
+          <h2 id="source-heading">Your source events</h2>
+          <p class="help">The original lines that inspired the story.</p>
+          <ol id="source-events"></ol>
+        </section>
+      </aside>
+      <article class="story-panel" id="story-panel" aria-labelledby="story-title">
+        <p class="eyebrow">Fiction, inspired by your log</p>
+        <h2 id="story-title">The story is still in the dark.</h2>
+        <div id="empty-story">
+          <div class="window" aria-hidden="true"><span></span></div>
+          <p>A light goes out. A radio wakes up.<br>Give the night a few details.<br>See what it whispers back.</p>
+          <p class="empty-help">Load the fictional sample or paste your own log,<br>then choose <strong>Write a ghost story.</strong></p>
+        </div>
+        <div id="scenes"></div>
+        <div class="story-actions">
+          <button type="button" class="download" id="btn-download-story" disabled>↓ Download story</button>
+          <span class="utility" id="story-meta">Three scenes · Two moods</span>
+        </div>
+      </article>
+    </div>
+  </main>
+  <footer>
+    <p>A ghost story, not an explanation. References show inspiration, not evidence of a haunting.<br>Story details are invented. Event links do not guarantee that a scene follows its source.</p>
+    <span class="utility">Last Light · Hacktoberfest 2026</span>
+  </footer>
+</body>
+</html>

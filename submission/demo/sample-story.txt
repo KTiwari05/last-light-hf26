@@ -1,0 +1,26 @@
+The Whispering Hallway
+
+FICTION — inspired by the supplied event log.
+References show inspiration, not factual evidence.
+
+Scene 1
+The hallway light flickered out at 23:41, leaving only the ghostly glow of moonlight through the window. A cold breath brushed the back of the neck as the house settled into silence.
+Inspired by: E1
+
+Scene 2
+At 00:06, the kitchen door creaked open, revealing a shadow that seemed to stretch toward the empty space behind the refrigerator. The temperature dropped just as the radio sputtered to life with static.
+Inspired by: E2, E3, E4
+
+Scene 3
+By 00:13, the hallway light glowed warmly again, but the shadow had vanished. The front door stood ajar, and the house whispered its name in the wind.
+Inspired by: E5, E6
+
+ORIGINAL EVENT LOG
+E1: 23:41 — Hallway light switched off.
+E2: 00:06 — Motion detected in the empty kitchen.
+E3: 00:07 — Kitchen temperature dropped from 21 to 17 degrees.
+E4: 00:09 — Radio switched on with no station selected.
+E5: 00:12 — Front door sensor reported closed.
+E6: 00:13 — Hallway light switched on.
+
+Generated locally with qwen3:4b using Last Light.
